@@ -10,4 +10,4 @@ I am Daniel Gipson, a full-stack web devoloper, javascript and java enthusiast, 
 
 #### Contact Me
 - [LinkedIn](https://linkedin.com/in/daniel-gipson)
-- [email me](mailto:dannygipson95@gmail.com)
+- [dannygipson95@gmail.com](mailto:dannygipson95@gmail.com)
